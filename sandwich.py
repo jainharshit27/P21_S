@@ -4,4 +4,4 @@ for i in range(7):
 for i in range(len(list1)):
     print("\n", list1[i])
     
-# Expected order => "Bread", "
+# Expected order => "Bread", "Cheese", "Tomato", "Onion", "Pickle", "Paneer", "Bread"
